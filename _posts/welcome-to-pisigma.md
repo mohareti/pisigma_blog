@@ -2,7 +2,7 @@
 title: 'Welcome to Pi Sigma: Pioneering the Future of Cybersecurity'
 excerpt: 'Introducing Pi Sigma - your partner in next-generation cybersecurity engineering, delivering offensive and defensive security services that protect your digital infrastructure from evolving threats.'
 
-date: '2024-07-04T05:00:00.000Z'
+date: '2024-08-15T05:00:00.000Z'
 author:
   name: Pi Sigma Team
 
@@ -10,7 +10,7 @@ author:
 
 ## Welcome to Pi Sigma
 
-Today, on Independence Day 2024, we're proud to announce the official launch of **Pi Sigma** - a next-generation cybersecurity firm dedicated to protecting organizations from the ever-evolving landscape of cyber threats.
+We're proud to announce the official launch of **Pi Sigma** - a next-generation cybersecurity firm dedicated to protecting organizations from the ever-evolving landscape of cyber threats.
 
 ## Our Mission
 
