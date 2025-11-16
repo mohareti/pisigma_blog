@@ -49,7 +49,7 @@ export function HeroPost({
               {excerpt}
             </p>
           </div>
-          <div className="mt-auto">
+          <div className="mt-auto pt-2 border-t border-green-500/20">
             <Avatar name={author.name} picture={author.picture} />
           </div>
         </div>
