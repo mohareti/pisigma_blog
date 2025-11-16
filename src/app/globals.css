@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-green-500/30;
+  }
+  
+  body {
+    @apply bg-black text-green-500 font-mono;
+  }
+  
+  a {
+    @apply text-green-400 hover:text-green-300 transition-colors;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-green-400 font-bold;
+  }
+}
