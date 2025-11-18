@@ -1,11 +1,13 @@
 ---
-title: 'Welcome to Pi Sigma: Pioneering the Future of Cybersecurity'
+title: 'Welcome to Pi Sigma : Pioneering the Future of Cybersecurity'
 excerpt: 'Introducing Pi Sigma - your partner in next-generation cybersecurity engineering, delivering offensive and defensive security services that protect your digital infrastructure from evolving threats.'
-
+coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2024-08-15T05:00:00.000Z'
 author:
   name: Pi Sigma Team
-
+  picture: '/assets/blog/authors/jj.jpeg'
+ogImage:
+  url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 ## Welcome to Pi Sigma

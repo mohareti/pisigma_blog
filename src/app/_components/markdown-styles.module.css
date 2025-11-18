@@ -1,5 +1,5 @@
 .markdown {
-  @apply text-lg leading-relaxed;
+  @apply text-lg leading-relaxed text-green-500;
 }
 
 .markdown p,
@@ -10,9 +10,44 @@
 }
 
 .markdown h2 {
-  @apply text-3xl mt-12 mb-4 leading-snug;
+  @apply text-3xl mt-12 mb-4 leading-snug text-green-400;
+}
+
+.markdown h2::before {
+  content: "## ";
+  @apply text-green-500;
 }
 
 .markdown h3 {
-  @apply text-2xl mt-8 mb-4 leading-snug;
+  @apply text-2xl mt-8 mb-4 leading-snug text-green-400;
+}
+
+.markdown h3::before {
+  content: "### ";
+  @apply text-green-500;
+}
+
+.markdown code {
+  @apply bg-green-500/10 text-green-400 px-2 py-1 rounded border border-green-500/30;
+}
+
+.markdown pre {
+  @apply bg-green-500/5 border border-green-500/30 p-4 rounded overflow-x-auto;
+}
+
+.markdown a {
+  @apply text-green-400 hover:text-green-300 underline;
+}
+
+.markdown blockquote {
+  @apply border-l-4 border-green-500 pl-4 italic text-green-500/80;
+}
+
+.markdown ul,
+.markdown ol {
+  @apply ml-6;
+}
+
+.markdown li::marker {
+  @apply text-green-500;
 }
