@@ -12,7 +12,7 @@ const Header = () => {
           <span className="animate-pulse ml-1 text-xl">_</span>
         </div>
         <a
-          href="https://www.pisigma.io/"
+          href="https://www.pisigma.io/contact"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-green-500/10 hover:bg-green-500/20 border border-green-500 text-green-400 font-bold py-2 px-4 md:px-6 transition-colors duration-200 text-sm md:text-base"
